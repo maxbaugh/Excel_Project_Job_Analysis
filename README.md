@@ -1,10 +1,16 @@
 # Introduction 
+Hello! I've created an Excel Dashboard 
 
-# Background
+# Salary Dashboard
 
-# Tools I Used
+[Check out my work here](Excel%20Project/Project_Dashboard.xlsx)
 
-# The Analysis
+![alt text](Dashboard.png)
+
+# Salary Analysis
+![alt text](top_skills-2.png)
+
+![alt text](more_skills_more_money-3.png)
 
 # What I Learned
 
