@@ -1,4 +1,5 @@
 # Data Analytics Project
+
 Hello! check out my amazing dashboard that helps job seekers determine which data jobs offer the highest salaries.
 
 ## Intro 
@@ -27,14 +28,14 @@ Use this dashboard for comparing data jobs and their salaries worldwide. Gain va
 
 ### Data Science Job Salaries
 
-![[Pasted image 20250218094313.png]]
+![alt text](Excel%20Project/bar_chart_jobs.png)
 
 - 🧰**Excel Features** - Optimized bar chart with salary values for clarity
 - 🎨**Design Choice** - Horizontal layout for better readability
 - 💹**Data Organization** - Sorted salaries from largest to smallest
 - 💡**Insights Gained** - Senior Engineers make more money than Analysts
 
-![[Pasted image 20250218095429.png]]
+![alt text](Excel%20Project/map.png)
 
 - 🧰**Excel Features** - Excel's map chart feature plots salaries globally
 - 🎨**Design Choice** - Shades of blue differentiate salary levels
@@ -64,7 +65,7 @@ Use this dashboard for comparing data jobs and their salaries worldwide. Gain va
 
 ## ✅Data Validation
 
-![[Pasted image 20250218135647.png]]
+![alt text](Excel%20Project/validation.png)
 
 - ✅ **Dropdown for Job Title** – Uses data validation to ensure users can only select from predefined job titles.
 - 🔎 **Accurate Median Calculation** – Ensures the displayed salary updates dynamically based on the selected job.

@@ -11,12 +11,14 @@
             "id": "b3d347aca0a55eaf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excel Project/Pasted image 20250218094313.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250218094313"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel Project/Pasted image 20250218094313.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250218094313"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel Project/Pasted image 20250218094313.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250218094313"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel Project/Pasted image 20250218094313.png",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250218094313"
+              "title": "Outline of README"
             }
           }
         ]
@@ -166,12 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fd1db30f238a521",
+  "active": "b3d347aca0a55eaf",
   "lastOpenFiles": [
-    "Excel Project/Pasted image 20250218135647.png",
+    "Excel Project/validation.png",
+    "Excel Project/map.png",
+    "Excel Project/job_type.png",
+    "Excel Project/bar_chart_jobs.png",
+    "Excel Project/Dashboard.png",
     "Excel Project/Pasted image 20250218100025.png",
+    "Excel Project/Pasted image 20250218135647.png",
     "Excel Project/Pasted image 20250218095429.png",
     "Excel Project/Pasted image 20250218094313.png",
+    "Excel Project/more_skills_more_money-3.png",
     "README.md"
   ]
 }
