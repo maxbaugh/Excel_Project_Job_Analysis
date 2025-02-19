@@ -1,10 +1,8 @@
 # Data Analytics Project
-
 Hello! check out my amazing dashboard that helps job seekers determine which data jobs offer the highest salaries.
 
 ## Intro 
-The dashboard was created to help job seekers land a job and help them determine the highest salary possible.
-
+I created this dashboard to improve my data analysis skills using Microsoft Excel. I found that I could both develop my data analysis skills and add a project to my portfolio. I'm happy to share my findings and encourage you to use this tool for your job search!
 ## Excel Skills Used
 
 - 📈**Charts**
@@ -20,14 +18,12 @@ The 2023 data originates from [SQL Course](https://lukebarousse.com/excel). It's
 - 🛠️**Skills**
 
 # Excel Dashboard
-
 ## 📈Charts
 
 ![alt text](Excel%20Project/Dashboard.png)
 Use this dashboard for comparing data jobs and their salaries worldwide. Gain valuable insights into global salary trends and make informed career decisions with ease.
 
 ### Data Science Job Salaries
-
 ![alt text](Excel%20Project/bar_chart_jobs.png)
 
 - 🧰**Excel Features** - Optimized bar chart with salary values for clarity
@@ -43,7 +39,6 @@ Use this dashboard for comparing data jobs and their salaries worldwide. Gain va
 - 💡**Insights Gained** - Salaries across the globe are now easy to locate 
 
 ## 🧮Formulas and Functions
-
 ```
 =MEDIAN(
   IF(
@@ -73,9 +68,10 @@ Use this dashboard for comparing data jobs and their salaries worldwide. Gain va
 
 ---
 # Salary Analysis
+
 ![alt text](Excel%20Project/top_skills-2.png)
 
- I found that SQL, Excel, and Tableau are highly sought after skills. Mastering them will expand your career prospects in data analysis.
+ I found that SQL, Excel, and Tableau are the top 3 skills in Data Analyst job postings.
 
 ![alt text](Excel%20Project/more_skills_more_money-3.png)
 
@@ -84,4 +80,4 @@ This goes to show that while learning more skills can boost your earning potenti
 [Check out my work here](Excel%20Project/Project_Analysis.xlsx)
 
 # Conclusion 
-Through my analysis, I learned that data job salaries vary significantly across the globe, highlighting the importance of location in career decisions. Furthermore, I discovered that SQL, Excel, and Tableau are among the most in-demand skills for Data Analysts in the U.S. Using the dataset I leveraged the power of Power Query, PivotTables, DAX, and charts. This project reinforced the value of data-driven insights in understanding job market trends and making strategic career moves.
+Through my analysis, I learned that data job salaries vary significantly across the globe, highlighting the importance of location in career decisions. Furthermore, I discovered that SQL, Excel, and Tableau are among the most in-demand skills for Data Analysts in the U.S. Using the dataset I leveraged the power of Power Query, PivotTables, DAX, and charts. This project reinforced the value of data-driven insights in job market trends. 
